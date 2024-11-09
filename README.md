@@ -31,9 +31,7 @@ The HTML code builds the structure of the blog, including a header, navigation l
 - **Header**: Contains the title of the blog and navigation links for Home, About, and Contact.
 - **Main Content**: Comprises articles discussing different topics (e.g., C Programming and HTML).
 - **Footer**: Displays a copyright message.
-
-**Example HTML structure:**
-
+  
 <!--
 <!DOCTYPE html>
 <html lang="en">
@@ -85,8 +83,6 @@ The CSS code styles the HTML content, providing an aesthetically pleasing design
 - **Header**: Added background color and text alignment for the header.
 - **Main Content**: Styled the articles with margin, padding, and borders.
 - **Footer**: Styled the footer to match the header's design.
-
-### Example CSS:
 
 <!--
 body {
