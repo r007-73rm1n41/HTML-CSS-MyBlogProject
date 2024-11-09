@@ -34,6 +34,7 @@ The HTML code builds the structure of the blog, including a header, navigation l
 
 **Example HTML structure:**
 
+<!--
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,6 +74,7 @@ The HTML code builds the structure of the blog, including a header, navigation l
     </footer>
 </body>
 </html>
+-->
 
 ## CSS Code Explanation
 
@@ -86,6 +88,7 @@ The CSS code styles the HTML content, providing an aesthetically pleasing design
 
 ### Example CSS:
 
+<!--
 body {
     font-family: 'Arial', sans-serif;
     margin: 0;
@@ -146,6 +149,7 @@ footer {
     text-align: center;
     padding: 1em 0;
 }
+-->
 
 ## Contribution
 
